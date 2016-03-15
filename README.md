@@ -5,7 +5,7 @@ VTGameController is an integrated game controller library for iOS, which support
 ##Documentation
 The documentation is available in the wiki.
 
-##Examples
+###Examples
 Coding examples are available in the examples directory.
 
 ##License
